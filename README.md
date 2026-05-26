@@ -5,7 +5,7 @@
 <p> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </p>
 👨‍💻 Sobre Mim
 
-Olá! Meu nome é GHebert Richard🚀
+Olá! Meu nome é Hebert Richard🚀
 Sou apaixonado por tecnologia, design e desenvolvimento.
 Atualmente estou estudando programação, versionamento de código e criação de interfaces utilizando Figma.
 
