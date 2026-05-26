@@ -1,44 +1,74 @@
-🚀 Tecnologias & Ferramentas
-🎨 Design & Prototipação
-<p> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> </p>
-🛠️ Ferramentas & Versionamento
-<p> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </p>
-👨‍💻 Sobre Mim
-
-Olá! Meu nome é Hebert Richard🚀
-Sou apaixonado por tecnologia, design e desenvolvimento.
-Atualmente estou estudando programação, versionamento de código e criação de interfaces utilizando Figma.
-
-📚 Atualmente Estudando
-<p> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> </p>
-# 📊 Estatísticas do GitHub
+```markdown
+# 🚀 Tecnologias & Especialidades
 
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Giovanni-SantosC&theme=github_dark"/>
+## 🎨 Design • Branding • UI/UX
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Giovanni-SantosC&theme=github_dark"/>
+<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator" />
 
 </div>
+
+<br>
 
 <div align="center">
 
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Giovanni-SantosC&theme=github_dark"/>
+| Área | Nível |
+|---|---|
+| UI/UX Design | █████████ 85% |
+| Branding & Identidade Visual | █████████ 85% |
+| Ilustração Visual | ████████ 75% |
+| CorelDRAW | █████████ 85% |
+| Adobe Illustrator | ████████ 75% |
+| Photoshop | █████ 50% |
+| Inkscape | ████ 40% |
 
 </div>
-🔥 Sequência de Contribuições
-<div align="center"> <img src="https://streak-stats.demolab.com?user=Giovanni-SantosC&theme=tokyonight&hide_border=false"/> </div>
-🌐 Redes Sociais
-<p> <a href="https://github.com/Giovanni-SantosC"> <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/> </a> </p>
-✨ Objetivo
 
-Buscando evoluir constantemente na área de tecnologia, aprendendo novas ferramentas e desenvolvendo projetos para fortalecer minhas habilidades.
+---
 
-💻 Perfil Visitantes
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=Giovanni-SantosC&color=blue&style=for-the-badge"/> </div>
-⚡ Frase Motivacional
+# 💻 Desenvolvimento Front-End
+
 <div align="center">
 
-“A tecnologia move o mundo.” – Steve Jobs
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,java" />
 
 </div>
+
+<br>
+
+<div align="center">
+
+| Tecnologia | Nível |
+|---|---|
+| HTML | ██████████ 90% |
+| CSS | █████████ 85% |
+| JavaScript | ████████ 75% |
+| TypeScript | ████ 35% |
+| Java | ███ 25% |
+
+</div>
+
+---
+
+# ✨ Diferenciais
+
+🎯 Combino criatividade visual com desenvolvimento moderno, criando interfaces que unem:
+
+- Estética profissional
+- Identidade visual forte
+- Experiência do usuário intuitiva
+- Front-end moderno e responsivo
+- Design estratégico voltado para marcas
+
+Minha visão mistura **design + tecnologia**, permitindo desenvolver projetos visualmente marcantes e funcionais ao mesmo tempo.
+
+---
+
+# 🧠 Perfil Profissional
+
+Sou um desenvolvedor e designer criativo focado em construir experiências digitais modernas, intuitivas e visualmente impactantes.  
+Atualmente aprimorando minhas habilidades em Front-End Development enquanto fortaleço minha base em branding, interfaces e identidade visual.
+
+Busco oportunidades onde eu possa transformar criatividade em soluções reais, contribuindo com inovação, estética e experiência digital de alto nível.
+```
